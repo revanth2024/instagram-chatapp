@@ -570,7 +570,7 @@ span {
   overflow: auto;
   overflow-y: scroll;
 }
-.css-12i7wg6-MuiPaper-root-MuiDrawer-paper {
+.MuiDrawer-paper {
   z-index: 1000 !important;
 }
 .chat-icon svg {
@@ -771,7 +771,7 @@ span {
   .message-flex {
     gap: 0px;
   }
-  .css-hmgdtt-MuiDrawer-docked {
+  .MuiDrawer-docked {
     display: block !important;
   }
   .css-hmgdtt-MuiDrawer-docked .MuiDrawer-paper {

@@ -134,7 +134,7 @@ function Post() {
           </Row>
           <Row>
             <Col className="likes-icon">
-              <AvatarGroup total={8} className="avatar-group">
+              <AvatarGroup className="avatar-group">
                 <Avatar
                   alt="avatar"
                   src={require("./assets/images/avatar8.jpg")}
@@ -283,7 +283,7 @@ function Post() {
           </Row>
           <Row>
             <Col className="likes-icon">
-              <AvatarGroup total={2} className="avatar-group">
+              <AvatarGroup  className="avatar-group">
                 <Avatar
                   alt="avatar"
                   src={require("./assets/images/avatar8.jpg")}
@@ -390,7 +390,8 @@ function Post() {
           </Row>
           <Row>
             <Col className="likes-icon">
-              <AvatarGroup total={12} className="avatar-group">
+              <AvatarGroup 
+               className="avatar-group">
                 <Avatar
                   alt="avatar"
                   src={require("./assets/images/avatar8.jpg")}
@@ -508,7 +509,8 @@ function Post() {
           </Row>
           <Row>
             <Col className="likes-icon">
-              <AvatarGroup total={2} className="avatar-group">
+              <AvatarGroup 
+               className="avatar-group">
                 <Avatar
                   alt="avatar"
                   src={require("./assets/images/avatar8.jpg")}
@@ -619,7 +621,7 @@ function Post() {
           </Row>
           <Row>
             <Col className="likes-icon">
-              <AvatarGroup total={4} className="avatar-group">
+              <AvatarGroup className="avatar-group">
                 <Avatar
                   alt="avatar"
                   src={require("./assets/images/avatar8.jpg")}
