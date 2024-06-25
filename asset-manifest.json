@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/instagram-chatapp/static/css/main.7de0ae7c.css",
-    "main.js": "/instagram-chatapp/static/js/main.fb9de717.js",
+    "main.css": "/instagram-chatapp/static/css/main.b7c51bd4.css",
+    "main.js": "/instagram-chatapp/static/js/main.e521f604.js",
     "static/js/453.4507ac20.chunk.js": "/instagram-chatapp/static/js/453.4507ac20.chunk.js",
     "static/media/postbehindswoods.png": "/instagram-chatapp/static/media/postbehindswoods.f13b8da7142528febe3c.png",
     "static/media/story4.png": "/instagram-chatapp/static/media/story4.b4dc08eb7ea79218562a.png",
@@ -35,12 +35,12 @@
     "static/media/image6.jpg": "/instagram-chatapp/static/media/image6.84ab16a2984be3cd4b55.jpg",
     "static/media/vijay.jpg": "/instagram-chatapp/static/media/vijay.2e98bfdcbb2827b375b0.jpg",
     "index.html": "/instagram-chatapp/index.html",
-    "main.7de0ae7c.css.map": "/instagram-chatapp/static/css/main.7de0ae7c.css.map",
-    "main.fb9de717.js.map": "/instagram-chatapp/static/js/main.fb9de717.js.map",
+    "main.b7c51bd4.css.map": "/instagram-chatapp/static/css/main.b7c51bd4.css.map",
+    "main.e521f604.js.map": "/instagram-chatapp/static/js/main.e521f604.js.map",
     "453.4507ac20.chunk.js.map": "/instagram-chatapp/static/js/453.4507ac20.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7de0ae7c.css",
-    "static/js/main.fb9de717.js"
+    "static/css/main.b7c51bd4.css",
+    "static/js/main.e521f604.js"
   ]
 }
