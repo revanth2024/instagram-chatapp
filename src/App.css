@@ -586,7 +586,7 @@ span {
   bottom: 40px;
   right: 40px;
   cursor: pointer;
-  z-index: 10000;
+  z-index: 1;
   border: 1px solid #bababa5c;
 }
 
@@ -669,7 +669,7 @@ span {
   .desktop-offcanvas-header {
     padding: 0px 15px !important;
     height: 40px;
-    margin-top: 70px;
+    margin-top: 80px;
   }
   .message-img img {
     height: 50px;
@@ -721,7 +721,7 @@ span {
   .desktop-offcanvas-header {
     padding: 0px 15px !important;
     height: 40px;
-    margin-top: 70px;
+    margin-top: 80px;
   }
   .responsive-appbar {
     width: 100% !important;
